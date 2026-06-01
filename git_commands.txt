@@ -42,3 +42,8 @@ git init
 git pull origin main
 
 git status 
+
+
+git commit -m "Commit Messages"
+
+git push
